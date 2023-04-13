@@ -1,4 +1,4 @@
-# Final_Project_Presentation_for_EduBridge
+# Heart Attack Prediction
 Name: Ritesh Kumar
 Enrollment no.:EBEON1022668236
 Batch- 2022-8161 EON Certified program in Data Analtics
